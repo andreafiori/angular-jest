@@ -26,7 +26,9 @@ Watch mode:
 
   npm run test:watch
 
-TODO: angular.json test configuration.
+Code coverage
+
+  npm run test:coverage:watch
 
 ## Running end-to-end tests
 
